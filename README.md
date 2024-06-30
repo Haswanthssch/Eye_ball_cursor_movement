@@ -1,4 +1,4 @@
-# Eye_ball_cursor_movement
+# Eye ball cursor movement
 EyeBall Cursor Control is a Python application designed to enable hands-free control of the computer cursor through real-time eye tracking. By utilizing computer vision techniques, the application tracks the user's eye movements to translate them into mouse cursor movements on the screen.
 
 Features:
